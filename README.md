@@ -16,16 +16,20 @@
 - [Tech Stack](#-tech-stack)
 - [Requirements](#-requirements)
 - [Installation](#-installation)
-- [Configuration](#-configuration)
-- [Usage](#-usage)
+- [Configuration](#%EF%B8%8F-configuration)
+- [Usage](#%EF%B8%8F-usage)
 - [How It Works](#-how-it-works)
 - [Project Structure](#-project-structure)
 - [FAQ / Troubleshooting](#-faq--troubleshooting)
 - [License](#-license)
 
 ---
+### Script doesn't contain any proxies in code. so if you have troubles with connecting to TikTok it's only your problem :]
+
 
 ## 🎯 About
+
+
 
 The script opens the **TikTok Messages** section, iterates through all available chats, and sends a predefined message to each one (default: `:]`).
 
